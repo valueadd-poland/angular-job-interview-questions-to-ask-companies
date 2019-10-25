@@ -71,4 +71,11 @@ P.S. Nie zadawaj wszystkich pytań na jednej rozmowie :D
 38. Jak zwykle prowadzony/zarządzany jest projekt? Jaka metodyka jest używana?
   <br>38.1. Ilość i rodzaj spotkań
   <br>38.2. Struktura organizacyjna
+  
+  
+Jeśli masz jakieś pytania, które Ty zadajesz na rozmowie, dopisz je do naszej listy. 
+
+Zestaw tych pytań jest rozszerzeniem i rozbudowaniem pytań z tego repozytorium:
+https://github.com/lkostrowski/job-interview-questions-to-ask-companies
+
 
