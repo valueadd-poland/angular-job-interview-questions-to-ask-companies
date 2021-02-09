@@ -2,7 +2,7 @@
 
 Jeśli planujesz w przyszłości zmienić firmę pewnie chcesz mieć pewność, że w nowym miejscu będzie Ci się dobrze pracowało. Część rzeczy dowiesz się ze strony firmowej bądź z opinii w necie, ale niektórych rzeczy będziesz mógł się dowiedzieć dopiero na rozmowie. Poniżej znajdziesz super pytania, które pozwolą Ci nie zmarnować tej okazji. Pamiętaj, że już samo postawienie odpowiednich pytań na rozmowie świadczy o Twojej świadomości istnienia pewnych zagadnień oraz być może wiedzy na ich temat.
 
-Jak kiedyś może będziesz miał okazję zobaczyć w [ValueAdd ](https://valueadd.pl/)nie boimy się odpowiedzi na te pytania :)
+Jak kiedyś może będziesz miał okazję zobaczyć w [House of Angular](https://houseofangular.io/) nie boimy się odpowiedzi na te pytania :)
 
 P.S. Nie zadawaj wszystkich pytań na jednej rozmowie :D
 
